@@ -49,8 +49,8 @@
   (pad "2" thru_hole circle (at 2.54 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
     (tstamp e4ab020c-c73a-44fe-8f06-6857f1e64484)
   )
-  (model "${KISYS3DMOD}/SMKJP.3dshapes/DO_35.step"
-    (offset (xyz 0 0 0))
+  (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp.wrl"
+    (offset (xyz -2.5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

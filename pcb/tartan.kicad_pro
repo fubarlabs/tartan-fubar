@@ -851,7 +851,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "tartan.net",
-      "plot": "",
+      "plot": "gerber/tartan/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
