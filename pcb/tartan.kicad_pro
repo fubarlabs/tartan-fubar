@@ -222,6 +222,13 @@
       ],
       "zones_allow_external_fillets": false
     },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
+    },
     "layer_presets": [],
     "viewports": []
   },
@@ -442,9 +449,13 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "tartan"
+      "tartan",
+      "krc",
+      "SMKJP"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "krc"
+    ]
   },
   "meta": {
     "filename": "tartan.kicad_pro",
@@ -985,7 +996,7 @@
   "sheets": [
     [
       "bf5361b0-41e6-43cb-af48-fd796b6d946a",
-      ""
+      "Root"
     ]
   ],
   "text_variables": {}
