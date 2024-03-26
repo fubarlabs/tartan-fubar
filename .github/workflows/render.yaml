@@ -31,8 +31,8 @@ jobs:
         needs: render-image
         
         permissions:
-        pages: write
-        id-token: write
+          pages: write
+          id-token: write
 
         environment:
         name: github-pages
